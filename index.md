@@ -7,7 +7,7 @@ If you are not sure whether you should run the x86 or the x64 installer, please 
 
 | x86                                                                                              | x64                                                                                              | ARM64                                                                                              |
 |--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [download](https://github.com/Lolle2000la/Image-Sort/releases/latest/download/ImageSort.x86.msi) | [download](https://github.com/Lolle2000la/Image-Sort/releases/latest/download/ImageSort.x64.msi) | [download](https://github.com/Lolle2000la/Image-Sort/releases/latest/download/ImageSort.ARM64.msi) |
+| [download](https://github.com/Lolle2000la/Image-Sort/releases/download/v2.14.8/ImageSort.x86.msi) | [download](https://github.com/Lolle2000la/Image-Sort/releases/download/v2.14.8/ImageSort.x64.msi) | [download](https://github.com/Lolle2000la/Image-Sort/releases/download/v2.14.8/ImageSort.ARM64.msi) |
 
 **I can't update the Microsoft Store build anymore. I don't know why and the support isn't helpful, but I will cease development on it. Please install the regular .msi-Version from the releases to keep up with new versions.**
 
@@ -73,7 +73,7 @@ It's your choice to see what works out best for you!
 
 ## Install
 
-Go to the [releases](https://github.com/Lolle2000la/Image-Sort/releases) page, and download and run the installer of the newest version. Then follow the instructions in the installer.
+Go to the [releases](https://github.com/Lolle2000la/Image-Sort/releases/tag/v2.14.8) page, and download and run the installer of the newest version. Then follow the instructions in the installer.
 
 ## Updating
 
